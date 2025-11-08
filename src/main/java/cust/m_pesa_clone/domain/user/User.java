@@ -1,4 +1,4 @@
-package cust.m_pesa_clone.user;
+package cust.m_pesa_clone.domain.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
