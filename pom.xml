@@ -12,7 +12,7 @@
 	<artifactId>m-pesa_clone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>m-pesa_clone</name>
-	<description>Demo project for Spring Boot</description>
+	<description>projeto de clone do M-pesa</description>
 	<url/>
 	<licenses>
 		<license/>
